@@ -40,7 +40,7 @@ spec:
               - all
           privileged: false
           readOnlyRootFilesystem: true
-        image: gcr.io/ordinal-torch-377801/shippingservice:v1
+        image: gcr.io/ordinal-torch-377801/shippingservice
         ports:
         - containerPort: 50051
         env:
