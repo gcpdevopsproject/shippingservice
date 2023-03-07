@@ -1,6 +1,6 @@
 # Shipping Servic
 
-The Shipping service provides price quote, tracking IDs, and the impression of order fulfillment & shipping processes.
+The Shipping service provides price quote, tracking IDs, and the impression of order fulfillment & shipping processe
 
 ## Local
 
