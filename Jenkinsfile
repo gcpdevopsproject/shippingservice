@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    PROJECT = "ordinal-torch-377801"
+    PROJECT = "intrepid-league-397203"
     APP_NAME = "shippingservice"
     FE_SVC_NAME = "${APP_NAME}-shippingservice"
     CLUSTER = "cluster-1"
